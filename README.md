@@ -1,4 +1,4 @@
-# 2D Side-Scrolling Action Game
+# The vector - 2D Side-Scrolling Action Game
 
 <div align="center">
 
@@ -33,6 +33,6 @@
 |---|---|
 | `Space` | ジャンプ |
 | ← / → | 左右移動 |
-| クリック  | 進行 |
+| 左クリック  | 進行 |
 
 
